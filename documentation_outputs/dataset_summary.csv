@@ -1,0 +1,10 @@
+Metric,Value
+Total Transactions,"284,807"
+Normal Transactions,"284,315"
+Fraudulent Transactions,492
+Fraud Rate (%),0.173%
+Average Amount ($),$88.35
+Max Amount ($),$25691.16
+Time Span (hours),48.0
+Features,31
+Missing Values,0
